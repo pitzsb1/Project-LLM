@@ -1,0 +1,16 @@
+{
+  "synthetic": true,
+  "notice": "Fictional fixture for configuration checks only. Not a real news event or analysis benchmark.",
+  "articles": [
+    {
+      "id": "synthetic-001",
+      "title": "Fictional briefing in Example Region",
+      "body": "This is a fictional article used only to check the local harness. No real event or claim is described.",
+      "publisher": "Fictional Example News",
+      "country": "Fictional Country A",
+      "published_at": "2026-01-01T00:00:00Z",
+      "language": "en",
+      "url": "https://example.invalid/synthetic-001"
+    }
+  ]
+}

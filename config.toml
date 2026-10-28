@@ -1,0 +1,7 @@
+[project]
+name = "news-crosscheck"
+article_language = "en"
+report_language = "ko"
+api_enabled = false
+storage_format = "json"
+fixture_path = "data/fixtures/synthetic_articles.json"

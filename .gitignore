@@ -1,0 +1,22 @@
+# Local environment and generated files
+.venv/
+.runtime/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+!.env.example
+# Private article data and results; only synthetic fixtures are shared
+data/*
+!data/fixtures/
+!data/fixtures/**
+workspace/*
+!workspace/bootstrap-log.md
+!workspace/plan.md
+!workspace/checks.md
+!workspace/docs-update.md
+!workspace/review.md
+!workspace/harness-review.md
+!workspace/reflection.md
+# The allowlisted Markdown files contain sanitized summaries only.

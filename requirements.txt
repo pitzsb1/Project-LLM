@@ -1,0 +1,3 @@
+# Initial harness uses only the Python 3.11 standard library.
+# No third-party packages are required at P4.
+# Add versioned dependencies here when their implementation needs them.
